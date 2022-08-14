@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-- 😄 My name is Lorenzo, I'm 18 years old and I'm from Rio Grande do Sul, Brazil. 
+- 😄 My name is Lorenzo, I'm 19 years old and I'm from Rio Grande do Sul, Brazil. 
 - 🎓 I am currently studying Vue.js and Vuetify.
 - 🔍 I'm passionate about solving problems. Always open to new challenges!
 	### 📌 "Ao agir, você está disposto a fracassar... Se você tem medo de fracassar, não irá muito longe" - Steve Jobs
