@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 - 😄 My name is Lorenzo, I'm 19 years old and I'm from Rio Grande do Sul, Brazil. 
 - 🎓 Studying Computer Science.
+- 🎓 CS50, CS50G - Harvard University.
 - 🔍 I'm passionate about solving problems. Always open to new challenges!
 	### 📌 "Ao agir, você está disposto a fracassar... Se você tem medo de fracassar, não irá muito longe" - Steve Jobs
 
