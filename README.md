@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 - 😄 My name is Lorenzo, I'm 20 years old and I'm from Rio Grande do Sul, Brazil.
-- 💼 Development Analyst in Alire.
+- 💼 Development Analyst in Aliare.
 - 🎓 Studying Computer Science.
 - 🎓 CS50, CS50G - Harvard University.
 - 🔍 I'm passionate about solving problems. Always open to new challenges!
